@@ -2,7 +2,7 @@
 
 Para poder terminar el curso de manera adecuada y viendo todos los temas de la planificación, voy a realizar una Infografía sobre MongoDB y sus diferentes contenidos.
 
-## Indice
+### Indice
 Índice de contenidos
 
 **1 Introducción a MongoDB**
